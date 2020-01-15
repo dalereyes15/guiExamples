@@ -1,4 +1,4 @@
-package areaofcircle;
+package cmpsc221_week1.src.areaofcircle;
 
 //#define PI 3.1415926
 
@@ -15,7 +15,7 @@ public class Main {
         //
         //  (1) Collect the radius
 //        double radius = 5.5;
-        double radius = Double.parseDouble(args[0]);
+        double radius = 3.0;
 
         //
         //  (2) calculate the area
