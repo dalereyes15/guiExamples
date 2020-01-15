@@ -15,7 +15,7 @@ public class Main {
         //
         //  (1) Collect the radius
 //        double radius = 5.5;
-        double radius = 3.0;
+        double radius = 12.0;
 
         //
         //  (2) calculate the area
